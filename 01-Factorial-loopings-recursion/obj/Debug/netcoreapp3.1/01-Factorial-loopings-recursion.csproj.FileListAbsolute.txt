@@ -1,0 +1,13 @@
+C:\Users\juliana.zacharias\Documents\AlgoritmosC#\Games\01-Factorial-loopings-recursion\bin\Debug\netcoreapp3.1\01-Factorial-loopings-recursion.exe
+C:\Users\juliana.zacharias\Documents\AlgoritmosC#\Games\01-Factorial-loopings-recursion\bin\Debug\netcoreapp3.1\01-Factorial-loopings-recursion.deps.json
+C:\Users\juliana.zacharias\Documents\AlgoritmosC#\Games\01-Factorial-loopings-recursion\bin\Debug\netcoreapp3.1\01-Factorial-loopings-recursion.runtimeconfig.json
+C:\Users\juliana.zacharias\Documents\AlgoritmosC#\Games\01-Factorial-loopings-recursion\bin\Debug\netcoreapp3.1\01-Factorial-loopings-recursion.runtimeconfig.dev.json
+C:\Users\juliana.zacharias\Documents\AlgoritmosC#\Games\01-Factorial-loopings-recursion\bin\Debug\netcoreapp3.1\01-Factorial-loopings-recursion.dll
+C:\Users\juliana.zacharias\Documents\AlgoritmosC#\Games\01-Factorial-loopings-recursion\bin\Debug\netcoreapp3.1\01-Factorial-loopings-recursion.pdb
+C:\Users\juliana.zacharias\Documents\AlgoritmosC#\Games\01-Factorial-loopings-recursion\obj\Debug\netcoreapp3.1\01-Factorial-loopings-recursion.csprojAssemblyReference.cache
+C:\Users\juliana.zacharias\Documents\AlgoritmosC#\Games\01-Factorial-loopings-recursion\obj\Debug\netcoreapp3.1\01-Factorial-loopings-recursion.AssemblyInfoInputs.cache
+C:\Users\juliana.zacharias\Documents\AlgoritmosC#\Games\01-Factorial-loopings-recursion\obj\Debug\netcoreapp3.1\01-Factorial-loopings-recursion.AssemblyInfo.cs
+C:\Users\juliana.zacharias\Documents\AlgoritmosC#\Games\01-Factorial-loopings-recursion\obj\Debug\netcoreapp3.1\01-Factorial-loopings-recursion.csproj.CoreCompileInputs.cache
+C:\Users\juliana.zacharias\Documents\AlgoritmosC#\Games\01-Factorial-loopings-recursion\obj\Debug\netcoreapp3.1\01-Factorial-loopings-recursion.dll
+C:\Users\juliana.zacharias\Documents\AlgoritmosC#\Games\01-Factorial-loopings-recursion\obj\Debug\netcoreapp3.1\01-Factorial-loopings-recursion.pdb
+C:\Users\juliana.zacharias\Documents\AlgoritmosC#\Games\01-Factorial-loopings-recursion\obj\Debug\netcoreapp3.1\01-Factorial-loopings-recursion.genruntimeconfig.cache

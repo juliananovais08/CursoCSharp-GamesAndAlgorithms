@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-Factorial-loopings-recursion", "01-Factorial-loopings-recursion\01-Factorial-loopings-recursion.csproj", "{1470FCA7-C318-4C99-B978-5052E86B6C13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-FizzBuzz-loopings-recursion", "02-FizzBuzz-loopings-recursion\02-FizzBuzz-loopings-recursion.csproj", "{C66DE9BE-9362-44DE-B81C-A61D75AA82B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1470FCA7-C318-4C99-B978-5052E86B6C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1470FCA7-C318-4C99-B978-5052E86B6C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1470FCA7-C318-4C99-B978-5052E86B6C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1470FCA7-C318-4C99-B978-5052E86B6C13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C66DE9BE-9362-44DE-B81C-A61D75AA82B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66DE9BE-9362-44DE-B81C-A61D75AA82B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66DE9BE-9362-44DE-B81C-A61D75AA82B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66DE9BE-9362-44DE-B81C-A61D75AA82B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {488AECE3-32AB-4522-B363-3D9052C3F55A}
+	EndGlobalSection
+EndGlobal
