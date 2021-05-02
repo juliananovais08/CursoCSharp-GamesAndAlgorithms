@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Estudos\\C#\\Algoritmos\\Games\\02-FizzBuzz-loopings-recursion\\02-FizzBuzz-loopings-recursion.csproj": {}
+    "C:\\Projetos\\Estudos\\C#\\Algoritmos\\CursoCSharp-GamesAndAlgorithms\\02-FizzBuzz-loopings-recursion\\02-FizzBuzz-loopings-recursion.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Estudos\\C#\\Algoritmos\\Games\\02-FizzBuzz-loopings-recursion\\02-FizzBuzz-loopings-recursion.csproj": {
+    "C:\\Projetos\\Estudos\\C#\\Algoritmos\\CursoCSharp-GamesAndAlgorithms\\02-FizzBuzz-loopings-recursion\\02-FizzBuzz-loopings-recursion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Estudos\\C#\\Algoritmos\\Games\\02-FizzBuzz-loopings-recursion\\02-FizzBuzz-loopings-recursion.csproj",
+        "projectUniqueName": "C:\\Projetos\\Estudos\\C#\\Algoritmos\\CursoCSharp-GamesAndAlgorithms\\02-FizzBuzz-loopings-recursion\\02-FizzBuzz-loopings-recursion.csproj",
         "projectName": "02-FizzBuzz-loopings-recursion",
-        "projectPath": "C:\\Projetos\\Estudos\\C#\\Algoritmos\\Games\\02-FizzBuzz-loopings-recursion\\02-FizzBuzz-loopings-recursion.csproj",
+        "projectPath": "C:\\Projetos\\Estudos\\C#\\Algoritmos\\CursoCSharp-GamesAndAlgorithms\\02-FizzBuzz-loopings-recursion\\02-FizzBuzz-loopings-recursion.csproj",
         "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Estudos\\C#\\Algoritmos\\Games\\02-FizzBuzz-loopings-recursion\\obj\\",
+        "outputPath": "C:\\Projetos\\Estudos\\C#\\Algoritmos\\CursoCSharp-GamesAndAlgorithms\\02-FizzBuzz-loopings-recursion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",

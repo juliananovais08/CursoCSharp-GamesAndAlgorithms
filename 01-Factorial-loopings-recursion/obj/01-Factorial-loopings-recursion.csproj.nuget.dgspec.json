@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Estudos\\C#\\Algoritmos\\Games\\01-Factorial-loopings-recursion\\01-Factorial-loopings-recursion.csproj": {}
+    "C:\\Projetos\\Estudos\\C#\\Algoritmos\\CursoCSharp-GamesAndAlgorithms\\01-Factorial-loopings-recursion\\01-Factorial-loopings-recursion.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Estudos\\C#\\Algoritmos\\Games\\01-Factorial-loopings-recursion\\01-Factorial-loopings-recursion.csproj": {
+    "C:\\Projetos\\Estudos\\C#\\Algoritmos\\CursoCSharp-GamesAndAlgorithms\\01-Factorial-loopings-recursion\\01-Factorial-loopings-recursion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Estudos\\C#\\Algoritmos\\Games\\01-Factorial-loopings-recursion\\01-Factorial-loopings-recursion.csproj",
+        "projectUniqueName": "C:\\Projetos\\Estudos\\C#\\Algoritmos\\CursoCSharp-GamesAndAlgorithms\\01-Factorial-loopings-recursion\\01-Factorial-loopings-recursion.csproj",
         "projectName": "01-Factorial-loopings-recursion",
-        "projectPath": "C:\\Projetos\\Estudos\\C#\\Algoritmos\\Games\\01-Factorial-loopings-recursion\\01-Factorial-loopings-recursion.csproj",
+        "projectPath": "C:\\Projetos\\Estudos\\C#\\Algoritmos\\CursoCSharp-GamesAndAlgorithms\\01-Factorial-loopings-recursion\\01-Factorial-loopings-recursion.csproj",
         "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Estudos\\C#\\Algoritmos\\Games\\01-Factorial-loopings-recursion\\obj\\",
+        "outputPath": "C:\\Projetos\\Estudos\\C#\\Algoritmos\\CursoCSharp-GamesAndAlgorithms\\01-Factorial-loopings-recursion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",

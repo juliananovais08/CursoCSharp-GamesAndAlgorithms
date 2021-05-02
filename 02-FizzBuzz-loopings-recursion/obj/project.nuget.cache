@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hnb+BeoyQ1R+l5QDvNcTOzMfjLNRQp/TRR3WzgsKE/vC+4YtvZmp36B5jHVLIDgq2RwY5S+ksU5F7DzJd4uVLA==",
+  "dgSpecHash": "vggs5CWR2dZPlwEAVHV+qoZuOm6xGTA1q9Ek7cEHxr3qaeXDrQjnKt2gH/X3DePWy2pqUJeBAFI6fwOfRj9Q0Q==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Estudos\\C#\\Algoritmos\\Games\\02-FizzBuzz-loopings-recursion\\02-FizzBuzz-loopings-recursion.csproj",
+  "projectFilePath": "C:\\Projetos\\Estudos\\C#\\Algoritmos\\CursoCSharp-GamesAndAlgorithms\\02-FizzBuzz-loopings-recursion\\02-FizzBuzz-loopings-recursion.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
